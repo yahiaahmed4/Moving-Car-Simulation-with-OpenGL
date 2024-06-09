@@ -22,11 +22,10 @@ Install Python packages: pip install PyOpenGL PyOpenGL_accelerate pillow pygame 
 Download the texture file: Ensure you have the home.jpg texture file in the same directory as your script.
 
 # Controls
-'r' Key: Set traffic lights to red, stopping all cars.
-'g' Key: Set traffic lights to green, allowing cars to move.
-'w' Key: Switch to morning mode.
-'b' Key: Switch to night mode.
-
+- **'r' Key**: Set traffic lights to red, stopping all cars.
+- **'g' Key**: Set traffic lights to green, allowing cars to move.
+- **'w' Key**: Switch to morning mode.
+- **'b' Key**: Switch to night mode.
 
 # Code Structure
 
