@@ -20,10 +20,10 @@ This project is a graphical simulation using OpenGL that features moving cars, a
 - **pygame**
 - **numpy**
 
-# Installation
+## Installation
 
-Install Python packages: pip install PyOpenGL PyOpenGL_accelerate pillow pygame numpy
-Download the texture file: Ensure you have the home.jpg texture file in the same directory as your script.
+- Install Python packages: `pip install PyOpenGL PyOpenGL_accelerate pillow pygame numpy`
+- Download the texture file: Ensure you have the `home.jpg` texture file in the same directory as your script.
 
 # Controls
 - **'r' Key**: Set traffic lights to red, stopping all cars.
